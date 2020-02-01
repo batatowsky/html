@@ -1,0 +1,15 @@
+/*reset */
+header, footer {
+    color:rgba(255, 255, 255, 0.459);
+    background-color: green;
+ 
+}
+article:first-child{
+    border: 1px solid red;
+
+}
+    
+    
+
+
+
